@@ -1,4 +1,6 @@
 # LR_CPU
 Logistic Regression on GPU Side
 
-Compile code in ug machine: nvcc -ccbin clang-3.8 -o LRCPU LRCPU.cu -lm
+use 2class_CPU_new and 2class_GPU_new
+
+Compile code in ug machine: nvcc -ccbin clang-3.8 -o 2class_CPU 2class_CPU_new.cu -lm

@@ -1,4 +1,4 @@
-# LR_CPU
+# Logistic Regression on CPU And GPU
 Logistic Regression on GPU Side
 
 use 2class_CPU_new and 2class_GPU_new
